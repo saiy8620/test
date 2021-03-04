@@ -1,0 +1,13 @@
+jfrog rt u "./zlib-*" ccssp-rpm/test/
+usermod -d /path/to/dir username
+
+---------------------------------------
+
+Download .tar file
+Extract the file
+cd direcotry
+perl Makefile.PL
+make
+make test
+make install
+
