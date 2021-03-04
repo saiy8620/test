@@ -1,0 +1,1 @@
+Delta RPMs disabled because /usr/bin/applydeltarpm not installed.
